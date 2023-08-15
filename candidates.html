@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Candidate Submission</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">HR Application</a>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <h2>Candidate Submission</h2>
+        <form action="/apply" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="candidate_name" class="form-label">Candidate Name:</label>
+                <input type="text" id="candidate_name" name="candidate_name" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label for="candidate_cv" class="form-label">Upload CV (PDF):</label>
+                <input type="file" id="candidate_cv" name="cv" class="form-control" accept=".pdf" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <div class="container mt-3">
+        <h2>Enhance Job Descriptions</h2>
+        <p>Looking for ways to improve your job descriptions? Our analysis tool can help you enhance your job descriptions to attract the right candidates.</p>
+        <a href="/evaluate" class="btn btn-primary">Analyze Job Description</a>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-2">
+        <p>&copy; 2023 HR Application. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Alice",
+      "job_title": "Software Engineer",
+      "cv_score": 85,
+      "matched_skills": ["Python", "Java", "Web Development"],
+      "experience": 5,
+      "email": "alice@example.com"
+    },
+    {
+      "name": "Bob",
+      "job_title": "Data Analyst",
+      "cv_score": 72,
+      "matched_skills": ["SQL", "Data Visualization", "Statistics"],
+      "experience": 3,
+      "email": "bob@example.com"
+    },
+    {
+      "name": "Charlie",
+      "job_title": "Marketing Specialist",
+      "cv_score": 62,
+      "matched_skills": ["Digital Marketing", "Social Media", "SEO"],
+      "experience": 4,
+      "email": "charlie@example.com"
+    },
+    {
+      "name": "David",
+      "job_title": "UX Designer",
+      "cv_score": 78,
+      "matched_skills": ["User Research", "Wireframing", "UI Design"],
+      "experience": 6,
+      "email": "david@example.com"
+    },
+    {
+      "name": "Eve",
+      "job_title": "Project Manager",
+      "cv_score": 90,
+      "matched_skills": ["Project Management", "Leadership", "Communication"],
+      "experience": 7,
+      "email": "eve@example.com"
+    },
+    {
+      "name": "Frank",
+      "job_title": "Sales Executive",
+      "cv_score": 68,
+      "matched_skills": ["Sales Strategy", "Negotiation", "Client Relations"],
+      "experience": 5,
+      "email": "frank@example.com"
+    },
+    {
+      "name": "Grace",
+      "job_title": "HR Manager",
+      "cv_score": 76,
+      "matched_skills": ["Employee Relations", "Recruitment", "HR Policies"],
+      "experience": 8,
+      "email": "grace@example.com"
+    },
+    {
+      "name": "Henry",
+      "job_title": "Financial Analyst",
+      "cv_score": 82,
+      "matched_skills": ["Financial Modeling", "Budgeting", "Data Analysis"],
+      "experience": 4,
+      "email": "henry@example.com"
+    },
+    {
+      "name": "Isabel",
+      "job_title": "Content Writer",
+      "cv_score": 70,
+      "matched_skills": ["Content Creation", "SEO", "Copywriting"],
+      "experience": 3,
+      "email": "isabel@example.com"
+    },
+    {
+      "name": "Jack",
+      "job_title": "Software Developer",
+      "cv_score": 88,
+      "matched_skills": ["JavaScript", "React", "Backend Development"],
+      "experience": 6,
+      "email": "jack@example.com"
+    }
+  ]
+  
